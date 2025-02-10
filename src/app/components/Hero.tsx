@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 
 // ✅ Correct export (default export)
 export default function Hero() {
